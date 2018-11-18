@@ -1,0 +1,8 @@
+(move v0 v1 #o20 #o24)
+(pull v0 #o20 #o21 v4 v5 v6 #o22)
+(move v0 #o21 v17 #o23)
+(pick v0 v2 v3 v16 v17 v18)
+(move v0 v17 v19 #o19)
+(place v0 v2 v10 v16 v19 v20)
+(move v0 v19 v1 #o25)
+; cost = 7 (unit cost)
